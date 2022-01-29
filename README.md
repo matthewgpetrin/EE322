@@ -27,7 +27,7 @@ My CPE322 website (coming soon)
 2. And
 3. Nested
    - List
-     *Testing
+     - Testing
      
-:monkey: **time**  
+:monkey:
 
