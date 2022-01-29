@@ -7,7 +7,7 @@ Classwork and projects related to my Design 6 class will be uploaded here.
 *Italic*  
 ~~Strikethrough~~  
 **Bold and nested _Italic_**  
-***Bold and Italic**  
+***Bold and Italic***  
 
 > Uhhhhh
 
@@ -27,7 +27,7 @@ My CPE322 website (coming soon)
 2. And
 3. Nested
    - List
-     -Testing
+     *Testing
      
 :monkey: **time**  
 
