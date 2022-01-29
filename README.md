@@ -3,11 +3,11 @@ Classwork and projects related to my Design 6 class will be uploaded here.
 
 ## Markdown testing
 ###### Styling:
-**Bold**
-*Italic*
-~~Strikethrough~~
-**Bold and nested _Italic_**
-***Bold and Italic**
+**Bold**  
+*Italic*  
+~~Strikethrough~~  
+**Bold and nested _Italic_**  
+***Bold and Italic**  
 
 > Uhhhhh
 
@@ -19,7 +19,7 @@ git commit
 ```
 
 ###### Links:
-The [CPE322 website](https://sites.google.com/view/ece322/projects)
+The [CPE322 website](https://sites.google.com/view/ece322/projects)  
 My CPE322 website (coming soon)
 
 ###### Other stuff:
@@ -29,4 +29,5 @@ My CPE322 website (coming soon)
    - List
      -Testing
 
+:monkey: **time**
 ![:monkey: **time**](https://github.com/matthewgpetrin/EE322/blob/main/assets/mfw.jpg)
