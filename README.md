@@ -1,4 +1,4 @@
-# EE-322
+# EE 322
 Classwork and projects related to my Design 6 class will be uploaded here.
 
 ## Markdown testing
