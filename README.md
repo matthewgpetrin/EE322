@@ -24,10 +24,7 @@ My CPE322 website (coming soon)
 
 ### Other stuff:
 1. List
-2. And
-3. Nested
-   - List
-     - Testing
-     
+2. Testing
+
 :monkey:
 
