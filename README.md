@@ -19,8 +19,8 @@ git commit
 ```
 
 ### Links:
-The [CPE322 website](https://sites.google.com/view/ece322/projects)  
-My CPE322 website (coming soon)
+The [EE322 website](https://sites.google.com/view/ece322/projects)  
+My [EE322 website](https://sites.google.com/stevens.edu/ee322group20/home)
 
 ### Other stuff:
 1. List
