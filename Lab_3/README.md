@@ -5,3 +5,5 @@
 <kbd>
   <img src="/Lab_3/assets/Lab_3_1.png">
 </kbd>  
+
+## Lab will be continued below...
