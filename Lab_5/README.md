@@ -1,5 +1,5 @@
 # Lab 5:  
-## 4A - Mosquitto and Paho  
+## 5A - Mosquitto and Paho  
 #### Mosquitto Setup:  
 <kbd>
   <img src="/Lab_5/assets/Lab_5a_1.png">
